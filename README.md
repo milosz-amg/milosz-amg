@@ -7,9 +7,9 @@
 
 ## 🔧 My Tech Stack
 
-- **Languages**: Python, Java, PyTorch, R, C, C++, 
+- **Languages**: Python, Java, SQL, R, C, C++, 
 - **AI/ML**: Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision
-- **Process Automation**: ADB (Android Debug Bridge), Python scripting, task automation tools
+- **Process Automation**: ADB (Android Debug Bridge), Python scripting, task automation tools (Python), Zapier
 
 ## 📚 Projects
 
